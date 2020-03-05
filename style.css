@@ -1,0 +1,85 @@
+.chip{
+    width: 60px;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.banklogodiv{
+   margin: 0;
+   margin-right: 10px;
+   margin-top: 10px;
+   padding: 0;
+   float: right;
+}
+.banklogo{
+    width: 100px;
+   margin: 0;
+   padding: 0;
+}
+.cardframe{
+    background-color: #833ae0;
+    width: 340px;
+    height: 210px;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    float: left;
+    margin:5px 5px;
+}
+
+.cardsys{
+    width: 80px;
+    margin: 0;
+    padding: 0; 
+    margin-left: 200px; 
+}
+
+.number{
+    font-size: 2em;
+    margin: 0 10px;
+    padding: 0;
+}
+.valid{
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 2px;
+    float: left;
+}
+.holder{
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+    font-size: 1.3em;
+}
+.validthru{
+    font-size: 0.8em;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 0;
+    width: 60px;
+}
+.tinkoff{
+    background-color: black;
+}
+
+.sberbank{
+    background-color: #249e32;
+}
+.vtb{
+    background-color: #0b24fb;
+}
+.date{
+    float: left;
+}
+.mastercard{
+    width: 60px;
+    margin: 0;
+    padding: 0; 
+    margin-top: 10px;
+    margin-left: 200px;
+}
